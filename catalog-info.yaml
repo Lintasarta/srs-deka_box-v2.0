@@ -3,6 +3,7 @@ kind: Component
 metadata:
   name: srs-deka-box
   description: SRS Deka Box
+  tags: ["srs"]
   annotations:
     backstage.io/techdocs-ref: dir:.
     github.com/project-slug: Lintasarta/srs-deka_box-v2.0
